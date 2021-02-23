@@ -1,0 +1,44 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<link href="../assets/styles.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="https://use.typekit.net/rdh5qwl.css">
+<link rel="stylesheet" href="https://use.typekit.net/rdh5qwl.css">
+<link rel="stylesheet" href="https://use.typekit.net/rdh5qwl.css">
+<!-- TemplateBeginEditable name="head" -->
+
+<style type="text/css">
+	
+	</style>
+	
+	
+	<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<div id="container">
+  <header></header>
+  <nav>
+	<ul>
+		<li><a href="../Pages/about.html">About</a></li>
+	    <li><a href="../Pages/blog.html">Blog</a></li>
+	    <li><a href="../Pages/gallery.html">Gallery</a></li>
+	    <li><a href="../Pages/contact.html">Contact</a></li></ul>
+	
+  </nav>
+  <!--Begin Floated Elements-->
+  <aside><h3>I'm a student, a future college student, a senior, a athlete, and a son with glasses.</h3>
+	<h3>Join my jorneny as you see my life through my eyes.</h3></aside>
+  <!-- TemplateBeginEditable name="main-content" -->
+  <main>
+    <h1>Contact Me</h1>
+  </main>
+  <!-- TemplateEndEditable --><!--End Floated Elements-->
+  <footer>Content for New footer Tag Goes Here</footer>
+</div>	
+</body>
+</html>
